@@ -15,4 +15,4 @@ command: `` omarchy-theme-install https://github.com/signaldirective/gruvy-glass
   
 
 **Theme by Signal Directive**
-**Additional Credits:** HANCORE for Waybar theme, the Themix Project for icons, Costeer for the Discord theme CSS.
+**Additional Credits:** HANCORE for Waybar theme, the Themix Project for icons, Costeer for the Discord theme CSS, and AngelJumbo for the wallpapers.
