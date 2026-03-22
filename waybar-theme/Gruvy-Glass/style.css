@@ -125,7 +125,7 @@ button:hover {
 }
 
 #workspaces button.active {
-  color: @foreground;   
+  color: #D39621;   
   transition: all 0.3s ease;
   padding: 0px 4px;
   opacity: 1.0;

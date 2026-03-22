@@ -4,7 +4,7 @@
   "position": "top",
   "spacing": 0,
   "height": 0,
-  "width": 1440,
+  "width": 1600,
   "margin-top": 2,
   "margin-bottom": 0,
   "modules-left": [
@@ -73,10 +73,16 @@
     "cursor": true,
     "format": "{icon}",
     "format-icons": {
-     "default": "",
-     "empty": "",
-     "focused": "",
-	   "active": ""
+     "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": ""
   },
       "persistent-workspaces": {
       "*": 10
